@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi, I’m a Senior DevOps Engineer<br><br>🔧 I build scalable CI/CD pipelines, automate cloud infrastructure, and optimize system performance across AWS and Azure.  <br>📦 I work with containers, Kubernetes, Terraform, and GitHub Actions to deliver reliable, secure deployments.  <br>📊 I’m passionate about monitoring, observability, and keeping systems running smoothly with tools like ELK, Grafana, and Dynatrace.  <br>💡 Always exploring new tech—currently learning more about GenAI, cloud cost optimization, and GitOps workflows.<br><br>📬 Let’s connect: [LinkedIn](https://www.linkedin.com/) | [Portfolio](https://your-portfolio.com)<br>
+### 👋 Hi, I’m a Cloud/DevOps Engineer<br><br>🔧 I build scalable CI/CD pipelines, automate cloud infrastructure, and optimize system performance across AWS and Azure.  <br>📦 I work with containers, Kubernetes, Terraform, and GitHub Actions to deliver reliable, secure deployments.  <br>📊 I’m passionate about monitoring, observability, and keeping systems running smoothly with tools like ELK, Grafana, and Dynatrace.  <br>💡 Always exploring new tech—currently learning more about GenAI, cloud cost optimization, and GitOps workflows.<br><br>📬 Let’s connect: [LinkedIn](https://www.linkedin.com/) | [Portfolio](https://your-portfolio.com)<br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SaiSampathC&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSampathC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
