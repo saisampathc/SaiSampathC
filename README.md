@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Sampath! 👋
 
-- 🌱 I’m currently doing **DevOps** and **SRE**
-- 👨‍💻 All of my projects are available at **[here][github]** or **[saisampath.dev][website]**
+- 🌱 I’m currently working on **Cloud** , **DevOps** and **SRE**
+- 👨‍💻 All of my projects are available **[here][github]** or **[saisampath.dev][website]**
 - 📝 I regulary write articles on **[my blog][blog]**
 - 📫 How to reach me **saisampath.dev**
 - 👻 Sampath_ch
