@@ -9,7 +9,7 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
+[![Website](https://img.shields.io/website?label=saisampath.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -37,7 +37,7 @@
 <details>
   <summary> :zap: Expand me</summary>
 
-![Imgur](https://i.imgur.com/SC6Rt8F.jpg)
+![Imgur](https://imgur.com/hxZm9x6.jpg)
 
 </details>
 
