@@ -1,21 +1,16 @@
-name: 🐍 Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: SaiSampathC
           svg_out_path: dist/github-snake.svg
           gif_out_path: dist/github-snake.gif
+
+      - name: Check if dist directory exists
+        run: |
+          if [ ! -d "dist" ]; then
+            echo "dist directory does not exist!"
+            exit 1
+          fi
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
