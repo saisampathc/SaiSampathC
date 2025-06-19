@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Sampath! 👋
 
-- 🌱 I’m currently working on **Cloud** , **DevOps** and **SRE**
-- 👨‍💻 All of my projects are available **[here][github]** or **[saisampath.dev][website]**
+- 👨🏻‍💻 I’m currently working on **Cloud** , **DevOps** and **SRE**
+- 🌱 All of my projects are available **[here][github]** or **[saisampath.dev][website]**
 - 📝 I regulary write articles on **[my blog][blog]**
 - 📫 How to reach me **saisampath.dev**
 - 👻 Sampath_ch
@@ -16,7 +16,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
 
-## 👨‍💻 Technologies and Tools
+## 👨🏻‍💻 Technologies and Tools
 
 | Category                   | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,9 +46,8 @@
 
 </details>
 
-## 🚀 Github Stats
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## 🐍 Contribution Stats
+  ![snake gif](https://github.com/SaiSampathC/SaiSampathC/blob/output/github-snake-dark.svg)
 
 <details>
   <summary> :zap: Expand me</summary>
@@ -64,7 +63,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SaiSampathC&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+###  👀 Vistors
 [![](https://visitcount.itsvg.in/api?id=SaiSampathC&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </details>
