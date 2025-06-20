@@ -49,24 +49,41 @@
 </details>
 
 ## 🐍 Contribution Stats
-  ![snake gif](https://github.com/SaiSampathC/SaiSampathC/blob/output/github-snake-dark.svg)
+
+<p align="center">
+  <img src="https://github.com/SaiSampathC/SaiSampathC/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
 <details>
-  <summary> :zap: Expand me</summary>
+  <summary align="center">⚡ Expand for GitHub Analytics</summary>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaiSampathC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaiSampathC&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSampathC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaiSampathC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  <h3 align="center">📊 GitHub Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SaiSampathC&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=SaiSampathC&theme=dark&hide_border=false" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSampathC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaiSampathC&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <h3 align="center">🏆 GitHub Trophies</h3>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaiSampathC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  </p>
 
-###  👀 Vistors
-[![](https://visitcount.itsvg.in/api?id=SaiSampathC&icon=0&color=0)](https://visitcount.itsvg.in)
+  <h3 align="center">🔝 Top Contributed Repo</h3>
+  <p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=SaiSampathC&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  </p>
+
+  <h3 align="center">👀 Visitors</h3>
+  <p align="center">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=SaiSampathC&icon=0&color=0" />
+    </a>
+  </p>
 
 </details>
 
