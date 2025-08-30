@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I’m currently working on **Cloud** , **DevOps** and **SRE**
 - 🌱 All of my projects are available **[here][github]** or **[saisampath.dev][website]**
-- 📝 I regulary write articles on **[my blog][blog]**
+- 📝 articles i like are on **[my blog][blog]**
 - 📫 How to reach me **saisampath.dev**
 - 👻 Sampath_ch
 - ⚡ 💘
